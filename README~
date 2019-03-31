@@ -1,0 +1,14 @@
+xxxxxxxxxxxxx on  https://github.com/SylGrafe/lab1Repo
+
+this README
+colab_readJson.ipynb  	notebook  to read the results from the file results.json
+other  notebooks     	(meant to be run on colab)  contains models  implementations
+file results.json     	file to be accessed by  colab_readJson.ipynb
+lab1Sygr003.pdf       	 all  explanations about this lab 
+
+xxxxxxxxxxx on  https://github.com/SylGrafe/lab1Lib
+lab1Utils.py 		the python file imported by all pgm  with methods to 
+ 			create and sump information about the test 
+			read this  info and print it
+
+
